@@ -77,7 +77,7 @@ const animales =[
         "edad": "3 años",
         "sexo": "Hembra",
         "tamaño":"M",
-        "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fambientlounge.cl%2Fblogs%2Fnoticias%2Fhusky-siberiano&psig=AOvVaw3_R6nPbbW4vw05Xvq5WU9i&ust=1718065846940000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjD7Jjkz4YDFQAAAAAdAAAAABAD"
+        "img":"https://cdn.shopify.com/s/files/1/0799/5301/files/blog_3310653f-96ba-4138-a5a2-725a2dbdf039_1024x1024.jpg?v=1657919619"
         
     },
 
@@ -89,7 +89,7 @@ const animales =[
         "edad": "1,2 años",
         "sexo": "Macho",
         "tamaño":"S",
-        "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fpurina.cl%2Fpurina%2Fbeagle&psig=AOvVaw1p2rA94EBppoyooQTTqVPd&ust=1718065932072000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDqvcDkz4YDFQAAAAAdAAAAABAD"
+        "img":"https://purina.cl/sites/default/files/2023-07/BEAGLE%20480X684.png"
         
     },
 
@@ -125,7 +125,7 @@ const animales =[
         "edad": "2,5 años",
         "sexo": "Macho",
         "tamaño":"M",
-        "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zooplus.es%2Fmagazine%2Fgatos%2Frazas-de-gatos%2Fel-gato-persa&psig=AOvVaw303a4MJlHDYAc3CfQTb3EN&ust=1718066254509000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICd8ODlz4YDFQAAAAAdAAAAABAD"
+        "img":"https://www.zooplus.es/magazine/wp-content/uploads/2017/10/fotolia_103481419-1024x682.jpg"
         
     },
 

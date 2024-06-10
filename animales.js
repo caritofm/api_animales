@@ -7,7 +7,7 @@ const animales =[
         "edad": "3,2 años",
         "sexo": "Hembra",
         "tamaño":"M",
-        "img":"https://uchile.cl/dam/jcr:5ecaed9c-fc92-4bb3-a716-bb817005bd73/podcast-03-l-1.jpg"
+        "img":"https://catinaflat.blog/wp-content/uploads/2022/07/pexels-dio-arapogiannis-7254759-2-850x1024.jpg"
     },
 
     {
